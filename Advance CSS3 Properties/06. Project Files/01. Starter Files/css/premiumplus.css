@@ -1,0 +1,41 @@
+div.monthly, div.annual, div.lifetime{
+	width: 400px;
+	height: 500px;
+	background: white;
+	border: 1px solid transparent;
+	position: absolute;
+	top:300px;
+}
+
+div.monthly{
+	left: 400px;
+}
+
+div.annual{
+	left: 840px;
+}
+
+div.lifetime{
+	left: 1300px;
+}
+
+h6{
+	font-size: 1em;
+}
+
+footer{
+	width: 100% ;
+	height:80px;
+	background: #172035;
+	position: absolute;
+	top:1279px;
+	left:0;
+}
+
+p#footer{
+	text-align: center;
+	margin-top: 32px;
+	color: white;
+	font-size: 16px;
+
+}
